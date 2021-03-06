@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Two-Dice Pig</string>
+    <string name="TurnTtlString">Turn Total: </string>
+    <string name="FirstDieDescrpt">Image of left rolled die</string>
+    <string name="SecondDieDescrpt">Image of right rolled die</string>
+    <string name="Roll">Roll Dice</string>
+    <string name="Hold">Hold</string>
+    <string name="P1String">Player 1 Points: </string>
+    <string name="P2String">Player 2 Points: </string>
+    <string name="P1Score">0</string>
+    <string name="P2Score">0</string>
+    <string name="Turn1">Player 1\'s Turn</string>
+    <string name="Turn2">Player 2\'s Turn</string>
+    <string name = "playerTurnString">Player\'s Turn</string>
+</resources>
